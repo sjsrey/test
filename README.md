@@ -24,3 +24,6 @@ for i in range(10):
     print(i)
 ```
 
+## What is the commit and status stuff?
+
+I don't know, let's change the file in VSC and see.
