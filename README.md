@@ -36,3 +36,6 @@ And more here.
 
 # Remote Changes
 I did this on github
+
+# Local Changes
+Yes that is cool. But I can also change it locally.
